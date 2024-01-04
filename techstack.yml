@@ -1,7 +1,8 @@
 repo_name: XDoubleU/ML-For-Beginners
 report_id: 7e0d432220c1618c9d605981bb4fbd86
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T17:06:14+00:00'
+timestamp: '2024-01-04T15:08:29+00:00'
 requested_by: carlotta94c
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/.devcontainer/Dockerfile
   detection_source: ".devcontainer/Dockerfile"
   last_updated_by: Jen Looper
   last_updated_on: 2021-11-16 18:49:00.000000000 Z
@@ -58,7 +63,7 @@ tools:
   category: Libraries
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3837/paeckCWC.png
-  detection_source_url: quiz-app/package-lock.json
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package-lock.json
   detection_source: quiz-app/package.json
   last_updated_by: Jen Looper
   last_updated_on: 2021-02-05 18:51:17.000000000 Z
@@ -72,8 +77,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: quiz-app/package-lock.json
-  detection_source: quiz-app/package.json
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package-lock.json
+  detection_source: quiz-app/babel.config.js
   last_updated_by: Jen Looper
   last_updated_on: 2021-02-05 18:51:17.000000000 Z
 - name: Docker
@@ -85,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -95,6 +101,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package.json
   detection_source: quiz-app/package.json
   last_updated_by: Jen Looper
   last_updated_on: 2021-02-05 18:51:17.000000000 Z
@@ -106,6 +113,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -115,7 +123,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/stale.yml"
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/.github/workflows/azure-static-web-apps-gray-sand-07a10f403.yml
+  detection_source: ".github/workflows/azure-static-web-apps-gray-sand-07a10f403.yml"
   last_updated_by: Julia Muiruri
   last_updated_on: 2022-07-18 10:49:10.000000000 Z
 - name: npm
@@ -126,6 +135,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package.json
   detection_source: quiz-app/package.json
   last_updated_by: Jen Looper
   last_updated_on: 2021-02-05 18:51:17.000000000 Z
@@ -138,6 +148,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners
   detection_source: Repo Metadata
 - name: NumPy
   description: Fundamental package for scientific computing with Python
@@ -149,7 +160,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
-  detection_source_url: 7-TimeSeries/1-Introduction/solution/common/environment.yaml
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/7-TimeSeries/1-Introduction/solution/common/environment.yaml
   detection_source: 3-Web-App/1-Web-App/solution/web-app/requirements.txt
   last_updated_by: Jen Looper
   last_updated_on: 2021-05-10 22:16:33.000000000 Z
@@ -163,7 +174,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16006/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: quiz-app/package-lock.json
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package-lock.json
   detection_source: quiz-app/package.json
   last_updated_by: Jen Looper
   last_updated_on: 2021-02-05 18:51:17.000000000 Z
@@ -177,7 +188,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16035/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
-  detection_source_url: quiz-app/package-lock.json
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package-lock.json
   detection_source: quiz-app/package.json
   last_updated_by: Jen Looper
   last_updated_on: 2021-02-05 18:51:17.000000000 Z
@@ -191,7 +202,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
-  detection_source_url: quiz-app/package-lock.json
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package-lock.json
   detection_source: quiz-app/package.json
   last_updated_by: Jen Looper
   last_updated_on: 2021-02-05 18:51:17.000000000 Z
@@ -205,7 +216,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: quiz-app/package-lock.json
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package-lock.json
   detection_source: quiz-app/package.json
   last_updated_by: Jen Looper
   last_updated_on: 2021-02-05 18:51:17.000000000 Z
@@ -219,7 +230,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: quiz-app/package-lock.json
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package-lock.json
   detection_source: quiz-app/package.json
   last_updated_by: Jen Looper
   last_updated_on: 2021-02-05 18:51:17.000000000 Z
@@ -233,7 +244,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: quiz-app/package-lock.json
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package-lock.json
   detection_source: quiz-app/package.json
   last_updated_by: Jen Looper
   last_updated_on: 2021-02-05 18:51:17.000000000 Z
@@ -247,7 +258,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: quiz-app/package-lock.json
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package-lock.json
   detection_source: quiz-app/package.json
   last_updated_by: Jen Looper
   last_updated_on: 2021-02-05 18:51:17.000000000 Z
@@ -261,7 +272,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16963/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
-  detection_source_url: quiz-app/package-lock.json
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package-lock.json
   detection_source: quiz-app/package.json
   last_updated_by: Jen Looper
   last_updated_on: 2021-12-07 15:00:04.000000000 Z
@@ -275,7 +286,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: quiz-app/package-lock.json
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package-lock.json
   detection_source: quiz-app/package.json
   last_updated_by: Jen Looper
   last_updated_on: 2021-12-07 15:00:04.000000000 Z
@@ -289,7 +300,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: quiz-app/package-lock.json
+  detection_source_url: https://github.com/XDoubleU/ML-For-Beginners/blob/main/quiz-app/package-lock.json
   detection_source: quiz-app/package.json
   last_updated_by: Jen Looper
   last_updated_on: 2021-12-07 15:00:04.000000000 Z
